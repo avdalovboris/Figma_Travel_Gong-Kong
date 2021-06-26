@@ -1,0 +1,5 @@
+.header__main {
+  display: grid;
+  grid-template-columns: repeat(4, minmax(min-content, max-content));
+  column-gap: 25px;
+}
